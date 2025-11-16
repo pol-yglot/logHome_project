@@ -65,6 +65,8 @@ logHome_project/
 | `GET /api/execute-batch` | 배치 실행 (Profile별 로그 저장) |
 | `GET /api/test` | 테스트 엔드포인트 |
 
+---
+
 ## 로그 파일 구조
 
 ```
